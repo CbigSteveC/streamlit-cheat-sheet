@@ -27,7 +27,7 @@ import base64
 # Initial page config
 
 st.set_page_config(
-     page_title='Streamlit cheat sheet',
+     page_title='Streamlit cheat sheet by Steve',
      layout="wide",
      initial_sidebar_state="expanded",
 )
@@ -426,4 +426,5 @@ st.exception(e)
 
 if __name__ == '__main__':
     main()
+
 
